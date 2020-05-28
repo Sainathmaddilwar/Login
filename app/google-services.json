@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479818559833",
+    "firebase_url": "https://saidatabase-a961f.firebaseio.com",
+    "project_id": "saidatabase-a961f",
+    "storage_bucket": "saidatabase-a961f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479818559833:android:7c22ddb54d68f301039c48",
+        "android_client_info": {
+          "package_name": "com.example.myss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479818559833-14lo94s3ph0ou5pe2co90tclta4i2aih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myss",
+            "certificate_hash": "642bc66381f3960a07441f02d335531942fef07a"
+          }
+        },
+        {
+          "client_id": "479818559833-0kpugbrr4o22h84plr0he13ltf0e51mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfTlmQfGBg1hcxO22piL9EGugow5o6GvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479818559833-0kpugbrr4o22h84plr0he13ltf0e51mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
